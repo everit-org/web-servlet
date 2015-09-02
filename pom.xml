@@ -81,7 +81,8 @@
           <instructions>
             <Bundle-SymbolicName>${project.artifactId}</Bundle-SymbolicName>
             <Import-Package>
-              javax.servlet.*;version="[2.4,4)"
+              javax.servlet.*;version="[2.4,4)",
+              *
             </Import-Package>
             <Export-Package>
               org.everit.web.servlet;version=1.0.0
