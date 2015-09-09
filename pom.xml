@@ -28,7 +28,8 @@
 
   <groupId>org.everit.web</groupId>
   <artifactId>org.everit.web.servlet</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
+
   <packaging>bundle</packaging>
 
   <name>Everit - Web Servlet</name>
@@ -109,4 +110,5 @@
       <scope>provided</scope>
     </dependency>
   </dependencies>
+
 </project>
